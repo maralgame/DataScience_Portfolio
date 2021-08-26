@@ -1,7 +1,7 @@
 # Code and deliverables generated in my certification on Data Science by IBM.
 
 ## Contents
-**DAP_L2_DataWrangling_Python.ipynb:** Jupyter Notebook that describes the process of data wrangling with Python. How to Handle missing values, correct data format and standardize and normalize data  
+**DAP_L2_DataWrangling_Python.ipynb:** Jupyter Notebook that describes the process of data wrangling with Python. How to Handle missing values, correct data format and standardize and normalize data.  
 **DAP_L2_CleanData.csv:** Data set after wrangling. Part of L2 deliverables.
 
 
