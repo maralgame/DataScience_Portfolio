@@ -8,5 +8,4 @@
 'NameOfCourse'_ 'Lab No'_ 'Lab Name'_'Language'
 
 ### Course names
-**7: DAP - Data Analysis With Python**
-Course on how to perform data analysis with Python on a real study case: Determine the correct sell price of a car based on cars dataset.
+**7: DAP - Data Analysis With Python:** Course on how to perform data analysis with Python on a real study case: Determine the correct sell price of a car based on cars dataset.
