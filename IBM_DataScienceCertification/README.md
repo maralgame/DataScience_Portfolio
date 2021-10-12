@@ -7,9 +7,9 @@
 **DAP_L4_ModelDevelopment_Python.ipnyb** Development of different prediction models such as linear regression, multiple linear regression and polynomial fit. As well as model validation using visualization and numeric tools (R^2 and MSE). *Do I know if the dealer is offering fair value for my trade-in? Do I know if I put a fair value on my car?*  
 **DAP_L5_ModelEvaluationandRefinement_Python.ipnyb** Different model evaluation and refinement techniques. Model Training and testing, cross-validation, Over and Under fitting, Ridge Regression & Grid Search.  
 **DAP_FinalAssignment_Python.ipnyb** Data Analysis with Python project. Project case in which the Data Analyst (You) is tasked to determine market price of a house given certain features. Use of all methodologies and tools learned during the DAP course.
-### Course names
+## Course names
 **7: DAP - Data Analysis With Python:** Course on how to perform data analysis with Python on a real study case: Determine the correct sell price of a car based on cars dataset. *What are the characteristics that have the most impact on the car price?*  
 
 
-### Naming convention
+## Naming convention
 'NameOfCourse'_ 'Lab No'_ 'Lab Name'_'Language'
