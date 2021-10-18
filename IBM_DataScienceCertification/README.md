@@ -9,6 +9,7 @@
 **DAP_FinalAssignment_Python.ipnyb** Data Analysis with Python project. Project case in which the Data Analyst (You) is tasked to determine market price of a house given certain features. Use of all methodologies and tools learned during the DAP course.
 ## Course names
 **7: DAP - Data Analysis With Python:** Course on how to perform data analysis with Python on a real study case: Determine the correct sell price of a car based on cars dataset. *What are the characteristics that have the most impact on the car price?*  
+**8: DVP - Data Visualization with Python:** Course on different visualization tools available in Python such as Matplotlib, Seaborn and Folium. Course focuses on analyzing Immigration to Canada Data while applying visualization skills. 
 
 
 ## Naming convention
