@@ -8,7 +8,7 @@
 **DAP_L5_ModelEvaluationandRefinement_Python.ipnyb** Different model evaluation and refinement techniques. Model Training and testing, cross-validation, Over and Under fitting, Ridge Regression & Grid Search.  
 **DAP_FinalAssignment_Python.ipnyb** Data Analysis with Python project. Project case in which the Data Analyst (You) is tasked to determine market price of a house given certain features. Use of all methodologies and tools learned during the DAP course.
 
-**DVP_L1_DataVisualization_Python.ipnyb** Crash course on Pandas Dataframes. Includes plot line visualization building with matplotlib. First analysis of dataset.
+**DVP_L1_DataVisualization_Python.ipnyb** Crash course on Pandas Dataframes. Includes plot line visualization building with matplotlib. First analysis of dataset.  
 **DVP_L2_AreaPltHistBarPlt_Python.ipnyb** Building visualizations in Python. Area Plot, Histograms and Bar Plots.
 
 ## Course names
