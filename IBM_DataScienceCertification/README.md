@@ -11,6 +11,7 @@
 **DVP_L1_DataVisualization_Python.ipnyb** Crash course on Pandas Dataframes. Includes plot line visualization building with matplotlib. First analysis of dataset.  
 **DVP_L2_AreaPltHistBarPlt_Python.ipnyb** Building visualizations in Python. Area Plot, Histograms and Bar Plots.
 **DVP_L3_PieBoxScatBubbPlt_Python.ipnyb** Building visualizations in Python. Pie Chart, Box Plot, Scatter Plot and Bubble Plots. Including data normalization and polynomial estimation.
+**DVP_L4_WaffleWordSns.ipynb** Building advanced visualization such as Waffle Chart and Word Maps. Also, introduction to SNS regplot.
 
 ## Course names
 **7: DAP - Data Analysis With Python:** Course on how to perform data analysis with Python on a real study case: Determine the correct sell price of a car based on cars dataset. *What are the characteristics that have the most impact on the car price?*  
